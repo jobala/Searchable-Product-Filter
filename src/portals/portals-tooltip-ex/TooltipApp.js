@@ -3,6 +3,7 @@ import Tooltip from './Tooltip';
 
 const TooltipApp = () => (
     <div>
+        <h1>You guy am jenga-ing</h1>
         <p>
             Some text, some of which <Tooltip text="This is some more info about that 
             first thing you should find very interesting."> requires explanation</Tooltip>
